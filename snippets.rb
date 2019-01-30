@@ -43,6 +43,13 @@ module Snippets
     },
     {
       scope: 'ruby',
+      name: 'def',
+      prefix: 'def',
+      body: '',
+      description: 'auto ends def block'
+    },
+    {
+      scope: 'ruby',
       name: 'binding pry',
       prefix: 'pry',
       body: 'binding.pry',

@@ -1,0 +1,64 @@
+<snippet>
+      	<content><![CDATA[
+      <%= ${1} %>
+      ]]></content>
+      	<tabTrigger>erb</tabTrigger>
+      	<scope>source.erb</scope>
+      </snippet>
+    
+<snippet>
+      	<content><![CDATA[
+      <% ${1} %>
+      ]]></content>
+      	<tabTrigger>rtn</tabTrigger>
+      	<scope>source.erb</scope>
+      </snippet>
+    
+<snippet>
+      	<content><![CDATA[
+      <%= ${1} %>
+      ]]></content>
+      	<tabTrigger>erb</tabTrigger>
+      	<scope>source.erb</scope>
+      </snippet>
+    
+<snippet>
+      	<content><![CDATA[
+      <%= binding.pry %>
+      ]]></content>
+      	<tabTrigger>pry</tabTrigger>
+      	<scope>source.erb</scope>
+      </snippet>
+    
+<snippet>
+      	<content><![CDATA[
+      <div class="${1}">
+      ]]></content>
+      	<tabTrigger>com</tabTrigger>
+      	<scope>source.erb</scope>
+      </snippet>
+    
+<snippet>
+      	<content><![CDATA[
+      
+      ]]></content>
+      	<tabTrigger>def</tabTrigger>
+      	<scope>source.ruby</scope>
+      </snippet>
+    
+<snippet>
+      	<content><![CDATA[
+      binding.pry
+      ]]></content>
+      	<tabTrigger>pry</tabTrigger>
+      	<scope>source.ruby</scope>
+      </snippet>
+    
+<snippet>
+      	<content><![CDATA[
+      /* ${1} */
+      ]]></content>
+      	<tabTrigger>com</tabTrigger>
+      	<scope>source.scss</scope>
+      </snippet>
+    
